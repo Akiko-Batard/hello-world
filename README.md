@@ -1,2 +1,2 @@
-# hello-world
-Just another repository
+# My Comments
+Hi. I just started Github.
